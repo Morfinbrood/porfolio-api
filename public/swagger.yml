@@ -1,7 +1,7 @@
 swagger: "2.0"
 info:
   version: "1.0.0"
-  title: "RSSchool API"
+  title: "portfolio API"
 host: "localhost:3000"
 schemes:
 - "http"

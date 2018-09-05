@@ -1,8 +1,8 @@
 {
-  "name": "rsschool-api",
+  "name": "portfolio-api",
   "version": "0.0.1",
-  "description": "API for accessing rsschool",
-  "repository": "github:rolling-scopes/rsschool-api",
+  "description": "API for accessing portfolio",
+  "repository": "github:MorfinBrood/portfolio-api",
   "scripts": {
     "build": "tsc",
     "start": "nodemon  --inspect --watch 'app/**/*' -e ts --exec node  -r ts-node/register -r dotenv/config ./index.ts | bunyan -o short",
